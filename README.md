@@ -55,8 +55,9 @@ This project utilizes **LangChain** for orchestration, simulated **Google Cloud 
 Run the bot directly in your terminal:
 ```bash
 python main.py
-
+```
 ### Option 2: Chatbot in Web Interface
 Launch the graphical interface using Streamlit:
 ```bash
 streamlit run app/chat_ui.py
+```
